@@ -1,6 +1,6 @@
 ## 什么是火种计划
 
-[README_EN.md](https://github.com/AllSparkProject/AllSpark/blob/main/README_EN.md)
+[README_EN](https://github.com/AllSparkProject/AllSpark/blob/main/README_EN.md)
 
 火种计划是为了摆脱中华/洼地文化的诅咒而创建的项目。任何希望了解，认清并在将来避免这些诅咒和苦难的人都会被火种计划欢迎。
 
